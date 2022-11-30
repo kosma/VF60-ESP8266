@@ -20,7 +20,7 @@ Change the SSID and password at the beginning of the file. Flash using Arduino I
 ## Usage
 
 * `http://<display IP>/display?line1=...&line2=...` - sets display content
-* `http://<display IP>/brightness?brightness=0..5` - sets display brightness
+* `http://<display IP>/brightness?level=0..5` - sets display brightness
 
 ## Language support
 
